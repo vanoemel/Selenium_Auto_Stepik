@@ -1,2 +1,2 @@
 Ivan Emelyanov
-Learning Python
+Learning Python and API
