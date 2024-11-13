@@ -16,6 +16,7 @@ try:
     x = x_el.get_attribute("valuex")
     print(x)
     y = calc(x)
+    print(y)
 
     input_answer = browser.find_element(By.ID, "answer")
     input_answer.send_keys(y)

@@ -18,7 +18,6 @@ try:
     select.select_by_value(str(z))
 
     btn = browser.find_element(By.CLASS_NAME, "btn")
-    browser.find_elements
     btn.click()
 
 finally:
